@@ -9,8 +9,8 @@ import Article from "./components/Articles/Article";
 import CustumeDrawer from "./components/Home/CustumeDrawer";
 import Table from "./components/TableControl/Table";
 import FeedBack from "./components/feedback/Feedback";
-import { MaterialCommunityIcons } from '@expo/vector-icons';
-import { Ionicons } from '@expo/vector-icons';
+import MaterialCommunityIcons from 'react-native-vector-icons/MaterialCommunityIcons';
+import Ionicons from 'react-native-vector-icons/Ionicons';
 import MaterialIcons from 'react-native-vector-icons/MaterialIcons';
 
 
