@@ -1,4 +1,4 @@
-import { StatusBar } from "expo-status-bar";
+import { StatusBar } from "react-native";
 import { Image, StyleSheet, TouchableOpacity, View, Text } from "react-native";
 
 export function CustomRatingBar({ maxRating, rating, setRate }) {
